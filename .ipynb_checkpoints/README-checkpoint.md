@@ -15,9 +15,7 @@ My astrophysics projects from 2025
 
 
 # Literature Review:
-Hathaway, D. 2015, Living Rev. Sol. Phys., 12, 4, https://ui.adsabs.harvard.edu/abs/2015LRSP...12....4H
-(Sections 1 & 2)
-
+Hathaway, D. 2015, Living Rev. Sol. Phys., 12, 4, https://ui.adsabs.harvard.edu/abs/2015LRSP...12....4H (Sections 1 & 2)
 Santos, A. R. G., García, R. A., Mathur, S., et al. 2019, ApJS, 244, 21, https://ui.adsabs.harvard.edu/abs/2021ApJS..255...17S/abstract
 Santos, A. R. G., Breton, S. N., Mathur, S., García, R. A., et al. 2021, ApJS, 255, 17, https://ui.adsabs.harvard.edu/abs/2021ApJS..255...17S
 
@@ -39,5 +37,5 @@ Santos, A. R. G., & Mathur, S. 2020, Science, 368, 466, https://ui.adsabs.harvar
 
 
 # File identification 
-Caixa de Ferramentas.ipynb - store basic python/jupiter notebook commands and functions for me to get started
-practice.ipynb - allow me to get a grip on the many new python packages
+$Caixa de Ferramentas.ipynb$ - store basic python/jupiter notebook commands and functions for me to get started
+$practice.ipynb$ - allow me to get a grip on the many new python packages
